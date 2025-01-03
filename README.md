@@ -1,2 +1,3 @@
-# soloyo-ai
-Software to manage business operations with AI-driven automation for entrepreneurs
+git add .
+git commit -m "Desktop - 1.svg"
+git push origin main
